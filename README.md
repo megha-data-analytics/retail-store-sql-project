@@ -95,7 +95,7 @@ The queries can help a retail business investigate:
 
 - `README.md` — Project overview and documentation
 - `SQL_Mini_Project_Megha_Vasava.pdf` — Project documentation
-- `Retail_Store_Database.sql — Database creation script
+- `Retail_Store_Database.sql` — Database creation script
 - `SQL_Analysis_Queries.sql` — SQL analysis queries
 - `ER_Diagram.png` — Database relationship diagram
 
